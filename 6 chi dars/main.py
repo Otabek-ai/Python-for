@@ -111,7 +111,7 @@ sanoq = 0
 
 for i in len(asd):
     if i >0:
-        pass
+        return 0
 
 
 
